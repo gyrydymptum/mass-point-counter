@@ -1,0 +1,3 @@
+/home/kasia/Dokumenty/DyskD/CPP_workspace/repozytorium/mass-point-counter/build/CMakeFiles/rebuild_cache.dir
+/home/kasia/Dokumenty/DyskD/CPP_workspace/repozytorium/mass-point-counter/build/CMakeFiles/edit_cache.dir
+/home/kasia/Dokumenty/DyskD/CPP_workspace/repozytorium/mass-point-counter/build/CMakeFiles/MPC.dir
